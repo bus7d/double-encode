@@ -1,4 +1,10 @@
 # double-encode
-python double uri encoder
+python hex and double uri encoder witch colors!!
 
-as obvious
+chmod +x double-encode.py
+
+./double-encode.py
+
+or 
+
+python double-encode.py
